@@ -1,6 +1,6 @@
 # File_Organizer
 
-Usage is simple. Download and run the exe file below.
+Usage is simple. Download and run the exe file below. If you or your computer doesn't trust the file, run it on a VM. This file is 100% safe.
 
 [Download File_Organizer.exe](https://drive.google.com/file/d/17bTRxpqvOl4GQSfCzd2ZmZLOb9vlk9p8/view?usp=sharing)
 
